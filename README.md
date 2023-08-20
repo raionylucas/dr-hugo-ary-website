@@ -1,7 +1,7 @@
 # Dr Hugo Silva Website
 
 ## Descrição
-Landing page desenvolvida para o médico neurologista Hugo Silva
+Landing page desenvolvida para o médico neurologista Hugo Ary Oliveira
 
 ## Tecnologias Utilizadas
 - HTML
